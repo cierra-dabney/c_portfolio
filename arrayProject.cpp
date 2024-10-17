@@ -3,11 +3,11 @@
 Author: Cierra Dabney
 Date: 09/02/2024
 Description: This program generates an array of random integers, calculates their sum and average,
-			 and displays the results. The user first inputs the array size, then the program fills the 
-			 array with random numbers between -200 and 199. It calculates the total sum and average of 
-			 the array elements and prints them, along with the array itself. Shows understanding of functions 
-			 handling array loading, sum calculation, and printing, demonstrates basic array manipulation 
-			 and pointer use.
+	     and displays the results. The user first inputs the array size, then the program fills the 
+	     array with random numbers between -200 and 199. It calculates the total sum and average of 
+	     the array elements and prints them, along with the array itself. Shows understanding of functions 
+	     handling array loading, sum calculation, and printing, demonstrates basic array manipulation 
+	     and pointer use.
 */
 
 #include<iostream>//input/output
